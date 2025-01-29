@@ -1,0 +1,6 @@
+# Ignore the environment directory or file
+.env
+
+# Ignore the webhook listener script
+webhook_listener.py
+
