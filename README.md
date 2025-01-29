@@ -75,5 +75,4 @@ Here's a corrected and reformatted version of your markdown document with some c
     ```
 
 15. The MLOps workflow should now start working.
-```
 
